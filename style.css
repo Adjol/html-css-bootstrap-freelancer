@@ -1,0 +1,84 @@
+.fixed_nav, .navbar {
+    background-color: #2c3e50;
+}
+.navbar ul li a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.hero {
+    margin-top: 62px;
+    padding-top: 2rem;
+    background-color: #1abc9c;
+}
+
+.title {
+    font-size: 4rem;
+    letter-spacing: .3rem;
+    font-weight: bold;
+}
+
+.star_divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.line {
+    border: 2px solid white;
+    /* width: calc(100% / 3); */
+    max-height: 0px;
+}
+
+.fa-star {
+    margin: 0 2rem;
+    color: white;
+}
+
+.skills {
+}
+
+
+.skills ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+
+.skills ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    letter-spacing: .2rem;
+}
+
+
+.image_section_row {
+    padding: 4rem 0;
+}
+
+
+.image_wrapper {
+    object-fit: contain;
+}
+
+.image_wrapper img {
+    max-width: 100%;
+}
+
+.about {
+    background-color: #1abc9c;
+}
+
+.about .container h1 {
+    padding: 2rem 0 1rem;
+}
+
+
+
+.fa-download {
+    margin: 0 1rem;
+}
