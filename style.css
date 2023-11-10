@@ -22,11 +22,6 @@
 .navbar-toggler{
   border: 2px solid white;
 }
-.navbar-toggler:focus{
-  box-shadow: none;
-}
-
-
 
 
 .hero {
@@ -141,12 +136,12 @@
     border-top: none;
     border-left: 0;
     border-right: 0;
-    line-height: 4rem;
+    /* line-height: 4rem; */
     
 }
 
 #messaggio {
-    line-height: 10rem;
+    height: 10rem;
     border-bottom: 1px solid black;
 } 
 
